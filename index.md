@@ -16,3 +16,7 @@ function printAnimalName(animalName) {
    console.log(animalName)
 }
 ```
+
+- [ ] Turn on Github pages
+- [x] This task is complete
+- [ ] This task is incomplete
